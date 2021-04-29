@@ -1,0 +1,28 @@
+.skill {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+}
+.skill h3{
+    font-size: 30px;
+    color: yellowgreen;
+    font-family: monospace;
+}
+
+
+.Michigan {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.Michigan h3{
+    color: yellowgreen;
+    font-family: monospace;
+}
+body{
+        background-image: url('../Downloads/img/bg.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+    
+    

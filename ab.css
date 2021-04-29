@@ -1,0 +1,40 @@
+.main{
+    display: flex;
+    margin-top: 20px;
+}
+
+.box1{
+    flex: 1;
+    margin-top: 20px;
+    border: white;
+    border-width: thin;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+
+.box2{
+    flex: 1;
+    margin-right: 30px;
+}
+.box2 h1{
+    color: cyan;
+    font-family: fantasy;
+    font-size: 50px;
+    padding-top: 30px;
+}
+.box2 h4{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-inline: 30px;
+}
+.box2 h5{
+    font-size: 20px;
+    color: greenyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url('../Downloads/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

@@ -1,0 +1,45 @@
+.details h1{
+    font-size: 50px;
+    font-family:fantasy;
+    color: white;
+    text-align: center;
+}
+
+.details h2{
+    font-size: 20px;
+    color:yellow;
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    color:yellowgreen;
+    margin-bottom: 40px;
+}
+
+.text h3{
+    padding-bottom: 20px;
+}
+
+.info{
+    display:flex;
+    
+    scroll-padding-left:  200px;
+}
+.call{
+    display:flex;
+}
+
+.mail{
+    display:flex;
+}
+.icon{
+    padding-right: 50px;
+}
+body{
+    background-image: url('../Downloads/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
